@@ -17,9 +17,9 @@ import io
 # 配置区域
 # =============================
 S3_CONFIG = {
-    "aws_access_key_id": "C6360C346C985CF1EBE5",
-    "aws_secret_access_key": "9DH4qbFGepkU8P96pP4kG7d0V14AAAGWbJhc8VJ1",
-    "endpoint_url": "http://d-ceph-ssd-inside.pjlab.org.cn",
+    "aws_access_key_id": "",  # 补充id
+    "aws_secret_access_key": "", # 补充key
+    "endpoint_url": "", # 补充end_point
 }
 
 # BUCKET_NAME = 'heta'
